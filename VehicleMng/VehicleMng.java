@@ -5,7 +5,7 @@ import java.util.Scanner;
 class Vehicle {
     String brand;
     String model;
-    int year;
+    int year:
     double basePrice;
     int age;
 
